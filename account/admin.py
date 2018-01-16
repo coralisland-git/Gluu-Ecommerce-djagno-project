@@ -103,8 +103,6 @@ class CreditAdmin(admin.ModelAdmin):
 
 admin.site.register(models.Credit, CreditAdmin)
 
-//
-
 class PremiumInvitationAdmin(admin.ModelAdmin):
 
     form = PremiumInvitationAdminForm
