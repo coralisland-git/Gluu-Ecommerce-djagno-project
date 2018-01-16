@@ -37,7 +37,6 @@ class StripeCard(models.Model):
         default=True
     )
 
-
 class Payment(models.Model):
 
     created = models.DateTimeField(
