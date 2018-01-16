@@ -110,7 +110,7 @@ class Account(models.Model):
             pass
         return 0
 
-
+//
 class EcommerceUserManager(BaseUserManager):
 
     def create_user(self, email, password=None, **kwargs):
