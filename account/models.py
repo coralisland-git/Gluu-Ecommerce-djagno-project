@@ -5,6 +5,7 @@ from django.db import models
 from django.contrib.auth.models import BaseUserManager, AbstractBaseUser
 from django.core.exceptions import ObjectDoesNotExist
 from django.utils import timezone
+from django.utils import timezone
 
 from django_countries.fields import CountryField
 
