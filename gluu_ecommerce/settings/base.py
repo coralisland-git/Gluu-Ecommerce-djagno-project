@@ -1,11 +1,4 @@
-"""
-Django settings for gluu_ecommerce project.
 
-
-
-For the full list of settings and their values, see
-https://docs.djangoproject.com/en/1.10/ref/settings/
-"""
 
 import os
 import dj_database_url
