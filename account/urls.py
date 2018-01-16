@@ -72,5 +72,12 @@ urlpatterns = [
         r'accept/(?P<activation_key>\w+)/$',
         views.accept_invite,
         name='accept-invite'
+    ),
+    url(
+        r'accept/(?P<activation_key>\w+)/$',
+        views.accept_invite,
+        name='accept-invite'
     )
+    
+    
 ]
