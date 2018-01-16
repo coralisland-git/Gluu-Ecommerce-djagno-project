@@ -54,7 +54,6 @@ class Payment(models.Model):
         blank=False,
         null=False
     )
-
     stripe_reference = models.CharField(
         blank=True,
         max_length=40
