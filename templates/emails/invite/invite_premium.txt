@@ -1,4 +1,4 @@
-Hi there,
+Hi there
 
 Thank you for purchasing an oxd site license. You can activate your license by registering on the Gluu license management dashboard. Please follow this link: {{invitation_link}}
 
