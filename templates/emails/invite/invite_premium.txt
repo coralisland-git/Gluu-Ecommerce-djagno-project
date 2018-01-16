@@ -4,6 +4,6 @@ Thank you for purchasing an oxd site license. You can activate your license by r
 
 Once registered, you can use the license to install oxd on as many servers as needed. 
 
-Thanks,
+Thanks
 
 Gluu Team
