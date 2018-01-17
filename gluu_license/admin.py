@@ -11,7 +11,6 @@ class LicenseRecordAdmin(admin.ModelAdmin):
 
 admin.site.register(models.LicenseRecord, LicenseRecordAdmin)
 
-
 class LicenseAdmin(admin.ModelAdmin):
 
     model = models.License
