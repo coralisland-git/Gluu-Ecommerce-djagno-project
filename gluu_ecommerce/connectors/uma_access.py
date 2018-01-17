@@ -8,9 +8,7 @@ logger = logging.getLogger('idp')
 
 def obtain_aat():
 
-    # https://gluu.org/docs/api/oic-token/
-
-    payload = {
+      payload = {
         'client_id': settings.UMA_CLIENT_ID,
         'client_secret': settings.UMA_CLIENT_SECRET,
         'grant_type': 'client_credentials',
