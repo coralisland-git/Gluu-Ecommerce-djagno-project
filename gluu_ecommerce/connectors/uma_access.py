@@ -88,7 +88,7 @@ def obtain_resource_ticket(rpt, resource_uri):
 
 def authorize_rpt(access_token, rpt, ticket):
 
-    # See https://gluu.org/docs/api/uma-authorization-endpoint/
+    
 
     headers = {'Authorization': 'Bearer {}'.format(access_token)}
 
